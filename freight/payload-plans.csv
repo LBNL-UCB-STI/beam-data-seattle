@@ -1,0 +1,6 @@
+payloadId,sequenceRank,tourId,payloadType,weightInKg,requestType,taz,estimatedTimeOfArrivalInSec,arrivalTimeWindowInSec,operationDurationInSec
+payload-3,1,tour-2,goods,500,unloading,100391,7100,1800,400
+payload-4,2,tour-2,goods,700,unloading,100402,8000,1800,500
+payload-6,2,tour-3,goods,600,unloading,100773,17000,1800,500
+payload-7,3,tour-3,goods,700,unloading,100141,18000,1800,500
+payload-5,1,tour-3,goods,1300,loading,100665,19000,1800,400

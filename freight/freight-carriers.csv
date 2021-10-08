@@ -1,0 +1,3 @@
+carrierId,tourId,vehicleId,vehicleTypeId,warehouseTAZ
+carrier-1,tour-3,freight-1,FREIGHT-1,100092
+carrier-1,tour-2,freight-1,FREIGHT-1,100092

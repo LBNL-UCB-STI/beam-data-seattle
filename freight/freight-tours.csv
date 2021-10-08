@@ -1,0 +1,3 @@
+tourId,departureTimeInSec,departureLocationX,departureLocationY,maxTourDurationInSec
+tour-2,7000,0,0,36000
+tour-3,15000,0,0,36000
