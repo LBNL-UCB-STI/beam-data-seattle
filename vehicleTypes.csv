@@ -44,3 +44,5 @@ BUS-WC,39,34,12.2,diesel,14773.1163,30000000000,,,,,,,,,,,MediumDutyPassenger,,,
 BUS-WH,33,20,10.7,diesel,19582.6,30000000000,,,,,,,,,,,MediumDutyPassenger,,,
 sharedVehicle-FAST-BIKE,2,0,1.5,gasoline,10.6,2210000,,,,,,,20,,,,Bike,0,,
 FREIGHT-1,50,50,12,diesel,25829.7,30000000000,,,,,,1,,,,,LightDutyTruck,,,1500
+sharedVehicle-sharedCar,4,0,4.5,gasoline,3655.98,3655980000,,,,,,1,,,,,Car,0,0.01,
+Bicycle,1,0,1.5,Food,10,3655980000,,,,,,1,,,,,Bike,,,
