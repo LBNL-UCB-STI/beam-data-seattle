@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/vehicle-tech/ft-vehicletypes--20241106--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
