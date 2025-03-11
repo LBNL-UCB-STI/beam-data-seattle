@@ -3,42 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/freight/2024-11-06/2018_Baseline/carriers--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/2024-11-06/2018_Baseline/ondemand--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/2024-11-06/2018_Baseline/ondemand--no-snap--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/2024-11-06/2018_Baseline/payloads--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/2024-11-06/2018_Baseline/payloads--no-snap--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/2024-11-06/2018_Baseline/tours--2018-Baseline.csv">
+        <entry key="/freight/2024-11-06/2018_Baseline--snapped-to-seattle-area-cbg412-ferry-network/carriers--2018-Baseline.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
