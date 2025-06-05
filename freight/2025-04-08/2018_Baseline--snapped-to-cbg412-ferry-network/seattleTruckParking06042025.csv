@@ -1,4 +1,4 @@
-taz,parkingType,chargingPointType,housingType,propertyType,county,X,Y,parkingZoneId,reservedFor,pricingModel,feeInCents,numStalls,timeRestrictions
+taz,parkingType,chargingPointType,housingType,propertyType,county,locationX,locationY,parkingZoneId,reservedFor,pricingModel,feeInCents,numStalls,timeRestrictions
 ,Public,none,non-res,,,-122.35346562699998,47.617378544000076,517594,Any,Block,0.0,2.0,
 ,Public,none,non-res,,,-122.34231182949998,47.61335744500008,517615,freight,Block,0.0,1.0,
 ,Public,none,non-res,,,-122.34210827749999,47.61182870950006,517620,freight,Block,0.0,1.0,
