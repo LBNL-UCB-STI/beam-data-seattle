@@ -3,42 +3,49 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/samples/households.csv">
+        <entry key="/beamFuelTypes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/urbansim/blocks.csv.gz!/blocks.csv">
+        <entry key="/freight/2025-07-21/2018-Baseline/seattleUnlimitedTruckParking.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/urbansim/households.csv.gz!/households.csv">
+        <entry key="/freight/20250721/2018-Baseline/carriers--2018-Baseline.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/urbansim/persons.csv.gz!/persons.csv">
+        <entry key="/freight/20250721/2018-Baseline/seattleTruckParking07182025.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/urbansim/plans.csv.gz!/plans.csv">
+        <entry key="/freight/20250721/2018-Baseline/seattleUnlimitedTruckParking.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/vehicle-tech/vehicleTypes.csv">
+        <entry key="/population-100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/rideHailFleet.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -46,6 +53,13 @@
           </value>
         </entry>
         <entry key="/vehicle-tech/vehicletypes--frism--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="seattleUnlimitedTruckParking.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
