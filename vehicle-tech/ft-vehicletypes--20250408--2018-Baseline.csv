@@ -1,13 +1,13 @@
-vehicleTypeId,seatingCapacity,standingRoomCapacity,lengthInMeter,primaryFuelType,primaryFuelConsumptionInJoulePerMeter,primaryFuelCapacityInJoule,primaryVehicleEnergyFile,secondaryFuelType,secondaryFuelConsumptionInJoulePerMeter,secondaryVehicleEnergyFile,secondaryFuelCapacityInJoule,automationLevel,maxVelocity,passengerCarUnit,rechargeLevel2RateLimitInWatts,rechargeLevel3RateLimitInWatts,vehicleCategory,sampleProbabilityWithinCategory,sampleProbabilityString,payloadCapacityInKg,vehicleClass
-md-D-Diesel-2018-Baseline,1,0,12,Diesel,9595.796035186175,12000000000000000,,,,,,1,80,,,,Class456Vocational,,,15000,Class 4-6 Vocational
-md-E-BE-2018-Baseline,1,0,12,Electricity,4587.112814357042,12000000000000000,,,,,,1,80,,,,Class456Vocational,,,15000,Class 4-6 Vocational
-md-E-H2FC-2018-Baseline,1,0,12,Hydrogen,753725.1295562156,12000000000000000,,,,,,1,80,,,,Class456Vocational,,,15000,Class 4-6 Vocational
-md-E-PHEV-2018-Baseline,1,0,12,Diesel,753725.1295562156,12000000000000000,,,,,,1,80,,,,Class456Vocational,,,15000,Class 4-6 Vocational
-hdt-D-Diesel-2018-Baseline,1,0,12,Diesel,13817.086117829229,12000000000000000,,,,,,1,65,,,,Class78Tractor,,,55000,Class 7&8 Tractor
-hdt-E-BE-2018-Baseline,1,0,12,Electricity,13547.749252849297,12000000000000000,,,,,,1,65,,,,Class78Tractor,,,55000,Class 7&8 Tractor
-hdt-E-H2FC-2018-Baseline,1,0,12,Hydrogen,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class78Tractor,,,55000,Class 7&8 Tractor
-hdt-E-PHEV-2018-Baseline,1,0,12,Diesel,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class78Tractor,,,55000,Class 7&8 Tractor
-hdv-D-Diesel-2018-Baseline,1,0,12,Diesel,14026.761465378302,12000000000000000,,,,,,1,65,,,,Class78Vocational,,,55000,Class 7&8 Vocational
-hdv-E-BE-2018-Baseline,1,0,12,Electricity,8593.377374942602,12000000000000000,,,,,,1,65,,,,Class78Vocational,,,55000,Class 7&8 Vocational
-hdv-E-H2FC-2018-Baseline,1,0,12,Hydrogen,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class78Vocational,,,55000,Class 7&8 Vocational
-hdv-E-PHEV-2018-Baseline,1,0,12,Diesel,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class78Vocational,,,55000,Class 7&8 Vocational
+vehicleTypeId,seatingCapacity,standingRoomCapacity,lengthInMeter,primaryFuelType,primaryFuelConsumptionInJoulePerMeter,primaryFuelCapacityInJoule,primaryVehicleEnergyFile,secondaryFuelType,secondaryFuelConsumptionInJoulePerMeter,secondaryVehicleEnergyFile,secondaryFuelCapacityInJoule,automationLevel,maxVelocity,passengerCarUnit,rechargeLevel2RateLimitInWatts,rechargeLevel3RateLimitInWatts,vehicleCategory,sampleProbabilityWithinCategory,sampleProbabilityString,payloadCapacityInKg,vehicleUse,vehicleClass
+md-D-Diesel-2018-Baseline,1,0,12,Diesel,9595.796035,1.2E+16,,,,,,1,80,,,,Class456Vocational,,,15000,Freight,Class 4-6 Vocational
+md-E-BE-2018-Baseline,1,0,12,Electricity,4587.112814,1.2E+16,,,,,,1,80,,,,Class456Vocational,,,15000,Freight,Class 4-6 Vocational
+md-E-H2FC-2018-Baseline,1,0,12,Hydrogen,753725.1296,1.2E+16,,,,,,1,80,,,,Class456Vocational,,,15000,Freight,Class 4-6 Vocational
+md-E-PHEV-2018-Baseline,1,0,12,Diesel,753725.1296,1.2E+16,,,,,,1,80,,,,Class456Vocational,,,15000,Freight,Class 4-6 Vocational
+hdt-D-Diesel-2018-Baseline,1,0,12,Diesel,13817.08612,1.2E+16,,,,,,1,65,,,,Class78Tractor,,,55000,Freight,Class 7&8 Tractor
+hdt-E-BE-2018-Baseline,1,0,12,Electricity,13547.74925,1.2E+16,,,,,,1,65,,,,Class78Tractor,,,55000,Freight,Class 7&8 Tractor
+hdt-E-H2FC-2018-Baseline,1,0,12,Hydrogen,753725.1296,1.2E+16,,,,,,1,65,,,,Class78Tractor,,,55000,Freight,Class 7&8 Tractor
+hdt-E-PHEV-2018-Baseline,1,0,12,Diesel,753725.1296,1.2E+16,,,,,,1,65,,,,Class78Tractor,,,55000,Freight,Class 7&8 Tractor
+hdv-D-Diesel-2018-Baseline,1,0,12,Diesel,14026.76147,1.2E+16,,,,,,1,65,,,,Class78Vocational,,,55000,Freight,Class 7&8 Vocational
+hdv-E-BE-2018-Baseline,1,0,12,Electricity,8593.377375,1.2E+16,,,,,,1,65,,,,Class78Vocational,,,55000,Freight,Class 7&8 Vocational
+hdv-E-H2FC-2018-Baseline,1,0,12,Hydrogen,753725.1296,1.2E+16,,,,,,1,65,,,,Class78Vocational,,,55000,Freight,Class 7&8 Vocational
+hdv-E-PHEV-2018-Baseline,1,0,12,Diesel,753725.1296,1.2E+16,,,,,,1,65,,,,Class78Vocational,,,55000,Freight,Class 7&8 Vocational
