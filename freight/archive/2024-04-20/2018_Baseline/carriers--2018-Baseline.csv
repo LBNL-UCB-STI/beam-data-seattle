@@ -1,4 +1,4 @@
-carrierId,tourId,vehicleId,vehicleTypeId,warehouseZone,warehouseX,warehouseY
+carrierId,tourId,vehicleId,vehicleTypeId,depotZone,depotX,depotY
 2351679-1-0md-d,b2b-0,2351679-1-0md-d-9,md-D-Diesel-2018-Baseline,3826,-122.18261904679127,48.04990684095329
 2351679-1-0hdt-d,b2b-1,2351679-1-0hdt-d-44,hdt-D-Diesel-2018-Baseline,3826,-122.18261904679127,48.04990684095329
 2353880-1-1hdt-d,b2b-2,2353880-1-1hdt-d-55,hdt-D-Diesel-2018-Baseline,3589,-122.32929698162673,47.79902637127254

@@ -1,4 +1,4 @@
-carrierId,tourId,vehicleId,vehicleTypeId,warehouseZone,warehouseX,warehouseY,mesoZone,vehicleTypeIdOrig,vehicleIdOrig
+carrierId,tourId,vehicleId,vehicleTypeId,depotZone,depotX,depotY,mesoZone,vehicleTypeIdOrig,vehicleIdOrig
 6419952-1-mdv,b2b-1,ft-5cf26a,ft-mdv-Dsl,530610533012,-122.32594580450912,48.26114512751136,530610533012.0,mdv_D_Diesel,b2b--c61-1
 7371482-1-mdv,b2b-28,ft-8e3d6e,ft-mdv-Dsl,530610420051,-122.2869402173399,47.88719221185544,530610420051.0,mdv_D_Diesel,b2b--c61-120
 7371482-1-mdv,b2b-34,ft-5b70d4,ft-mdv-Dsl,530610420051,-122.2869402173399,47.88719221185544,530610420051.0,mdv_D_Diesel,b2b--c61-132
