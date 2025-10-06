@@ -45,7 +45,91 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline_Snapped/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-09-24/2018_Baseline/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg0-ferry-network/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg194-ferry-network/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg412-ferry-network/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/sample/freight-carriers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/population-100.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/r5-partially-simplified/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/r5-residential-partiallysimplified-ferry/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/r5-residential-partiallysimplified/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/r5-unclassified-simplified/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/seattle-area-cbg0-ferry-network/clipped_tazs.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
