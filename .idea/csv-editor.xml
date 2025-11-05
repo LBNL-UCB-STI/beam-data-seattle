@@ -115,20 +115,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/taz-centers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/taz-centers.csv.gz!/taz-centers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/vehicle-tech/vehicletypes--frism--2018-Baseline.csv">
           <value>
             <Attribute>
