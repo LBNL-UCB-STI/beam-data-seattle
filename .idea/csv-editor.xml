@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/20250721/2018-Baseline/payloads--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/20250721/2018-Baseline/seattleTruckParking07182025.csv">
           <value>
             <Attribute>
