@@ -3,35 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/freight/20250721/2018-Baseline/carriers--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/20250721/2018-Baseline/payloads--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/20250721/2018-Baseline/seattleTruckParking07182025.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/20250721/2018-Baseline/tours--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/freight/archive/2024-04-20/2018_Baseline/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline/payloads--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline/tours--2018-Baseline.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -45,7 +31,42 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline_Snapped/payloads--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline_Snapped/payloads--no-snap--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-04-20/2018_Baseline_Snapped/tours--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/archive/2024-09-24/2018_Baseline/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-09-24/2018_Baseline/payloads--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-09-24/2018_Baseline/tours--2018-Baseline.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -59,7 +80,35 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg0-ferry-network/payloads--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg0-ferry-network/tours--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg194-ferry-network/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg194-ferry-network/payloads--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg194-ferry-network/tours--2018-Baseline.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -73,6 +122,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/archive/2024-11-06/2018_Baseline--snapped-to-cbg412-ferry-network/tours--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/sample/freight-carriers.csv">
           <value>
             <Attribute>
@@ -80,7 +136,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/parking/seattleUnlimitedTruckParking.csv">
+        <entry key="/freight/sample/freight-tours.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/freight/sample/payload-plans.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -94,7 +157,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/r5/r5-partially-simplified/linkToGradePercent.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/r5/r5-residential-partiallysimplified-ferry/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/r5-residential-partiallysimplified-ferry/linkToGradePercent.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -108,6 +185,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/r5/r5-residential-partiallysimplified/linkToGradePercent.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/r5/r5-unclassified-simplified/clipped_tazs.csv">
           <value>
             <Attribute>
@@ -115,14 +199,35 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/r5/seattle-area-cbg0-ferry-network/clipped_tazs.csv">
+        <entry key="/r5/r5-unclassified-simplified/linkToGradePercent.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/vehicle-tech/vehicletypes--frism--2018-Baseline.csv">
+        <entry key="/r5/r5-unsimplified/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/r5-unsimplified/linkToGradePercent.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/seattle-area-cbg120-ferry-strongConn-network/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/seattle-area-cbg120-ferry-weakConn-network/clipped_tazs.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
