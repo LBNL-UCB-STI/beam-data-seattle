@@ -325,13 +325,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/r5/seattle-area-cbg120-ferry-strongConn-network/clipped_tazs.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/r5/seattle-area-cbg120-ferry-weakConn-network/clipped_tazs.csv">
           <value>
             <Attribute>

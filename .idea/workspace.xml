@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aac032-454d-4333-a879-79f08dd15e26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/3.linkstats_unmodified_7_0.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/3.linkstats_unmodified_7_5.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/3.linkstats_unmodified_8_0.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/3.linkstats_unmodified_8_5.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC09-0.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC07-0.conf" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC07-0.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC07-5.conf" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC07-5.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC08-0.conf" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC08-0.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC08-5.conf" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC08-5.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC09-0.conf" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC09-0.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/haitamlaarabi/Workspace/Models/beam/beam-data-seattle/scenarios/network-calibration"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/haitamlaarabi/Workspace/Models/beam/beam-data-seattle/scenarios/network-calibration&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/scenarios/network-calibration" />
