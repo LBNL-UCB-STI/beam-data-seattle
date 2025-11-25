@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4aac032-454d-4333-a879-79f08dd15e26" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/seattle-area-cbg120-ferry-weakConn-network.osm.pbf" beforeDir="false" />
-    </list>
+    <list default="true" id="e4aac032-454d-4333-a879-79f08dd15e26" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,15 +29,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/haitamlaarabi/Workspace/Models/beam/beam-data-seattle/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v3",
+    "last_opened_file_path": "/Users/haitamlaarabi/Workspace/Models/beam/beam-data-seattle/r5/seattle-area-cbg120-ferry-weakConn-network",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network" />
       <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v3" />
       <recent name="$PROJECT_DIR$/scenarios/network-calibration" />
-      <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v1" />
