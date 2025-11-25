@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aac032-454d-4333-a879-79f08dd15e26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v3/3.linkstats_unmodified_fc10_0.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC11-0.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC12-0.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC10-0.conf" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/network-calibration/seattle-pilates--jdeq--cbg120fwc--FC10-0.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/seattle-area-cbg120-ferry-weakConn-network.osm.pbf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
