@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/20260309/2018-Baseline/carriers--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/archive/2024-04-20/2018_Baseline/carriers--2018-Baseline.csv">
           <value>
             <Attribute>
