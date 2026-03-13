@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4aac032-454d-4333-a879-79f08dd15e26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/freight/20260309/2018-Baseline/carriers--2018-Baseline.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freight/20260309/2018-Baseline/payloads--2018-Baseline.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freight/20260309/2018-Baseline/tours--2018-Baseline.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seattle-base.conf" beforeDir="false" afterPath="$PROJECT_DIR$/seattle-base.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vehicle-tech/vehicletypes--frism--2018-Baseline.csv" beforeDir="false" afterPath="$PROJECT_DIR$/vehicle-tech/vehicletypes--frism--2018-Baseline.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +37,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vehicle-tech" />
+      <recent name="$PROJECT_DIR$/freight" />
       <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network" />
       <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v1" />
       <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v2" />
-      <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v3" />
-      <recent name="$PROJECT_DIR$/scenarios/network-calibration" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/r5/seattle-area-cbg120-ferry-weakConn-network/linkstats_v2" />
