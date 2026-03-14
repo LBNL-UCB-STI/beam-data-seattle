@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/20260309/2018-Baseline/tours--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/archive/2024-04-20/2018_Baseline/carriers--2018-Baseline.csv">
           <value>
             <Attribute>
@@ -333,6 +340,13 @@
           </value>
         </entry>
         <entry key="/r5/seattle-area-cbg120-ferry-weakConn-network/clipped_tazs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/r5/seattle-cbg120-ferry-weakConn-network/clipped_tazs.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
