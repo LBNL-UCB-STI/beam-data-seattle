@@ -52,20 +52,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/freight/20260309/2018-Baseline/carriers--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/freight/20260309/2018-Baseline/tours--2018-Baseline.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/freight/archive/2024-04-20/2018_Baseline/carriers--2018-Baseline.csv">
           <value>
             <Attribute>
@@ -522,6 +508,27 @@
           </value>
         </entry>
         <entry key="/vehicle-tech/vehicletypes--frism--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/vehicle-tech/vehicletypes--frism--2050-BaseFuel-060Elec.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/vehicle-tech/vehicletypes--frism--2050-BaseFuel-100Elec.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/vehicle-tech/vehicletypes--frism--2050-HighFuel-100Elec.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
