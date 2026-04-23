@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/freight/20260423/vehicle-tech/vehicletypes--frism--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/freight/archive/2024-04-20/2018_Baseline/carriers--2018-Baseline.csv">
           <value>
             <Attribute>
@@ -438,6 +445,13 @@
           </value>
         </entry>
         <entry key="/vehicle-tech/ft-vehicletypes--20241106--2018-Baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/vehicle-tech/ft-vehicletypes--20250721--2018-Baseline.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
