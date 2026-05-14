@@ -1,0 +1,26 @@
+vehicleTypeId,seatingCapacity,standingRoomCapacity,lengthInMeter,primaryFuelType,primaryFuelConsumptionInJoulePerMeter,primaryFuelCapacityInJoule,primaryVehicleEnergyFile,secondaryFuelType,secondaryFuelConsumptionInJoulePerMeter,secondaryVehicleEnergyFile,secondaryFuelCapacityInJoule,automationLevel,maxVelocity,passengerCarUnit,rechargeLevel2RateLimitInWatts,rechargeLevel3RateLimitInWatts,vehicleCategory,sampleProbabilityWithinCategory,sampleProbabilityString,payloadCapacityInKg,vehicleClass
+ld1-D-Diesel-2018-Baseline,1,0,12,Diesel,6007.5651066449955,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,2000,Class 1&2A Vocational
+ld1-G-Gasoline-2018-Baseline,1,0,12,Gasoline,7833.304016429045,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,2000,Class 1&2A Vocational
+ld1-E-BE-2018-Baseline,1,0,12,Battery Electric,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,2000,Class 1&2A Vocational
+ld1-E-H2FC-2018-Baseline,1,0,12,H2 Fuel Cell,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,2000,Class 1&2A Vocational
+ld1-E-PHEV-2018-Baseline,1,0,12,PHEV,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,2000,Class 1&2A Vocational
+ld3-D-Diesel-2018-Baseline,1,0,12,Diesel,6056.174503064524,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,5000,Class 2&B3 Vocational
+ld3-G-Gasoline-2018-Baseline,1,0,12,Gasoline,8513.40544010803,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,5000,Class 2&B3 Vocational
+ld3-E-BE-2018-Baseline,1,0,12,Battery Electric,3264.1510959084303,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,5000,Class 2&B3 Vocational
+ld3-E-H2FC-2018-Baseline,1,0,12,H2 Fuel Cell,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,5000,Class 2&B3 Vocational
+ld3-E-PHEV-2018-Baseline,1,0,12,PHEV,753725.1295562156,12000000000000000,,,,,,1,65,,,,Class2b3Vocational,,,5000,Class 2&B3 Vocational
+mdv-D-Diesel-2018-Baseline,1,0,12,Diesel,9595.796035186175,12000000000000000,,,,,,1,55,,,,Class456Vocational,,,15000,Class 4-6 Vocational
+mdv-G-Gasoline-2018-Baseline,1,0,12,Gasoline,11404.611218108263,12000000000000000,,,,,,1,55,,,,Class456Vocational,,,15000,Class 4-6 Vocational
+mdv-E-BE-2018-Baseline,1,0,12,Battery Electric,4587.112814357042,12000000000000000,,,,,,1,55,,,,Class456Vocational,,,15000,Class 4-6 Vocational
+mdv-E-H2FC-2018-Baseline,1,0,12,H2 Fuel Cell,753725.1295562156,12000000000000000,,,,,,1,55,,,,Class456Vocational,,,15000,Class 4-6 Vocational
+mdv-E-PHEV-2018-Baseline,1,0,12,PHEV,753725.1295562156,12000000000000000,,,,,,1,55,,,,Class456Vocational,,,15000,Class 4-6 Vocational
+hdt-D-Diesel-2018-Baseline,1,0,12,Diesel,13817.086117829229,12000000000000000,,,,,,1,50,,,,Class78Tractor,,,55000,Class 7&8 Tractor
+hdt-G-Gasoline-2018-Baseline,1,0,12,Gasoline,14274.230719805148,12000000000000000,,,,,,1,50,,,,Class78Tractor,,,55000,Class 7&8 Tractor
+hdt-E-BE-2018-Baseline,1,0,12,Battery Electric,13547.749252849297,12000000000000000,,,,,,1,50,,,,Class78Tractor,,,55000,Class 7&8 Tractor
+hdt-E-H2FC-2018-Baseline,1,0,12,H2 Fuel Cell,753725.1295562156,12000000000000000,,,,,,1,50,,,,Class78Tractor,,,55000,Class 7&8 Tractor
+hdt-E-PHEV-2018-Baseline,1,0,12,PHEV,753725.1295562156,12000000000000000,,,,,,1,50,,,,Class78Tractor,,,55000,Class 7&8 Tractor
+hdv-D-Diesel-2018-Baseline,1,0,12,Diesel,14026.761465378302,12000000000000000,,,,,,1,50,,,,Class78Vocational,,,40000,Class 7&8 Vocational
+hdv-G-Gasoline-2018-Baseline,1,0,12,Gasoline,14196.940457556262,12000000000000000,,,,,,1,50,,,,Class78Vocational,,,40000,Class 7&8 Vocational
+hdv-E-BE-2018-Baseline,1,0,12,Battery Electric,8593.377374942602,12000000000000000,,,,,,1,50,,,,Class78Vocational,,,40000,Class 7&8 Vocational
+hdv-E-H2FC-2018-Baseline,1,0,12,H2 Fuel Cell,753725.1295562156,12000000000000000,,,,,,1,50,,,,Class78Vocational,,,40000,Class 7&8 Vocational
+hdv-E-PHEV-2018-Baseline,1,0,12,PHEV,753725.1295562156,12000000000000000,,,,,,1,50,,,,Class78Vocational,,,40000,Class 7&8 Vocational
